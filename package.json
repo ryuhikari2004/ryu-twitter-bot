@@ -1,0 +1,16 @@
+{
+  "name": "ryu-twitter-bot",
+  "version": "1.0.0",
+  "description": "Bot que obtiene feed de twetter cada 1 muinuto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RYU HIKARI 834",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "telegraf": "^3.38.0",
+    "twitter": "^1.7.1"
+  }
+}
